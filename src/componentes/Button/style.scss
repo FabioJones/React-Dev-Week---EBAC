@@ -1,0 +1,11 @@
+.button{
+    cursor: pointer;
+    box-sizing: border-box;
+    border-radius: .5rem;
+    background-color: var(--green);
+    color: var(--white);
+    padding: .7rem 1rem;
+    border: 1px solid  #00B6C1;
+    box-shadow: 1px 1px 4px #02939C;
+    font-size: 1.4rem;
+}
